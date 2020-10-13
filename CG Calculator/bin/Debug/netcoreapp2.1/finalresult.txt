@@ -1,0 +1,6 @@
+amitav, 113, 4
+nadia, 102, 3.33
+amit, 105, 3.17
+mahi, 100, 3.08
+mitu, 106, 3
+shofik, 108, 2.5

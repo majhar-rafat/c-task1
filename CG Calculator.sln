@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CG Calculator", "CG Calculator\CG Calculator.csproj", "{669C636F-E05A-4124-9328-9C38908B7355}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{669C636F-E05A-4124-9328-9C38908B7355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{669C636F-E05A-4124-9328-9C38908B7355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{669C636F-E05A-4124-9328-9C38908B7355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{669C636F-E05A-4124-9328-9C38908B7355}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C413D6C-896C-436C-A99D-4D88D2B3D469}
+	EndGlobalSection
+EndGlobal

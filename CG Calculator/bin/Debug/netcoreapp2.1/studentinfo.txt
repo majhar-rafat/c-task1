@@ -1,0 +1,6 @@
+mahi, 100
+nadia, 102
+amit, 105
+mitu, 106
+shofik, 108
+amitav, 113
