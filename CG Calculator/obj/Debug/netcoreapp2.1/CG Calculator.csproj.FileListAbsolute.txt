@@ -10,15 +10,3 @@ C:\Users\majharul\source\repos\CG Calculator\obj\Debug\netcoreapp2.1\CG Calculat
 C:\Users\majharul\source\repos\CG Calculator\obj\Debug\netcoreapp2.1\CG Calculator.dll
 C:\Users\majharul\source\repos\CG Calculator\obj\Debug\netcoreapp2.1\CG Calculator.pdb
 C:\Users\majharul\source\repos\CG Calculator\bin\Debug\netcoreapp2.1\appsettings.json
-D:\Tasks\c# tasks\CG Calculator\bin\Debug\netcoreapp2.1\appsettings.json
-D:\Tasks\c# tasks\CG Calculator\bin\Debug\netcoreapp2.1\CG Calculator.deps.json
-D:\Tasks\c# tasks\CG Calculator\bin\Debug\netcoreapp2.1\CG Calculator.runtimeconfig.json
-D:\Tasks\c# tasks\CG Calculator\bin\Debug\netcoreapp2.1\CG Calculator.runtimeconfig.dev.json
-D:\Tasks\c# tasks\CG Calculator\bin\Debug\netcoreapp2.1\CG Calculator.dll
-D:\Tasks\c# tasks\CG Calculator\bin\Debug\netcoreapp2.1\CG Calculator.pdb
-D:\Tasks\c# tasks\CG Calculator\obj\Debug\netcoreapp2.1\CG Calculator.csprojAssemblyReference.cache
-D:\Tasks\c# tasks\CG Calculator\obj\Debug\netcoreapp2.1\CG Calculator.csproj.CoreCompileInputs.cache
-D:\Tasks\c# tasks\CG Calculator\obj\Debug\netcoreapp2.1\CG Calculator.AssemblyInfoInputs.cache
-D:\Tasks\c# tasks\CG Calculator\obj\Debug\netcoreapp2.1\CG Calculator.AssemblyInfo.cs
-D:\Tasks\c# tasks\CG Calculator\obj\Debug\netcoreapp2.1\CG Calculator.dll
-D:\Tasks\c# tasks\CG Calculator\obj\Debug\netcoreapp2.1\CG Calculator.pdb
